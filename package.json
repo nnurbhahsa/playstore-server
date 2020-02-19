@@ -1,0 +1,21 @@
+{
+  "name": "ckpt4-playstore-server",
+  "version": "1.0.0",
+  "description": "Module 19 ckpt4 drill: working with the express response object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon appServer"
+  },
+  "keywords": [],
+  "author": "Dorah",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
